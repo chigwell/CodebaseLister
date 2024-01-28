@@ -1,4 +1,4 @@
-# codebase_lister/main.py
+# codebaselister/main.py
 import os
 import pathspec
 from datetime import datetime

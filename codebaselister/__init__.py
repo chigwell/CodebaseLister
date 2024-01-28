@@ -1,2 +1,2 @@
-# codebase_lister/__init__.py
+# codebaselister/__init__.py
 from .main import CodebaseLister
